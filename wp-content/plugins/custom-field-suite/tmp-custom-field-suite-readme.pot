@@ -1,0 +1,282 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Custom Field Suite"
+msgstr ""
+
+#. Short description.
+msgid "A custom fields management UI"
+msgstr ""
+
+#. Screenshot description.
+msgid "A custom field group with field nesting (loop field)"
+msgstr ""
+
+#. Screenshot description.
+msgid "Clicking on a field name expands the box to show options"
+msgstr ""
+
+#. Screenshot description.
+msgid "Placement Rules determine where field groups appear"
+msgstr ""
+
+#. Screenshot description.
+msgid "The Tools area for migrating field groups"
+msgstr ""
+
+#. Found in description header.
+msgid "Custom Field Suite (CFS) is a visual custom fields management plugin."
+msgstr ""
+
+#. Found in description header.
+msgid "Setting it up"
+msgstr ""
+
+#. Found in description header.
+msgid "Important Links"
+msgstr ""
+
+#. Found in description header.
+msgid "Translations"
+msgstr ""
+
+#. Found in description list item.
+msgid "Browse to the \"Field Groups\" admin menu"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create a Field Group, containing one or more custom fields"
+msgstr ""
+
+#. Found in description list item.
+msgid "Choose where the Field Group should appear, using Placement Rules (see screenshots)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Use the <a href=\"http://docs.customfieldsuite.com/api/get.html\">get</a> method in your template files to display custom fields"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://docs.customfieldsuite.com\">Documentation →</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://github.com/mgibbs189/custom-field-suite\">Github →</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Catalan (ca) - thanks to Luis Bordas"
+msgstr ""
+
+#. Found in description list item.
+msgid "Chinese (zh_CN) - thanks to iblackly"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dutch (nl_NL) - thanks to <a href=\"https://github.com/wverhoogt\">wverhoogt</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "French (fr_FR) - thanks to Jean-Christophe Brebion"
+msgstr ""
+
+#. Found in description list item.
+msgid "German (de_DE) - thanks to <a href=\"http://deckerweb.de/\">David Decker</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Italian (it_IT)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Japanese (ja) - thanks to Karin Suzakura"
+msgstr ""
+
+#. Found in description list item.
+msgid "Persian (fa_IR) - thanks to Vahid Masoomi"
+msgstr ""
+
+#. Found in description list item.
+msgid "Polish (pl_PL) - thanks to <a href=\"digitalfactory.pl\">Digital Factory</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Russian (ru_RU) - thanks to Glebcha"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish (es_ES) - thanks to <a href=\"http://www.webhostinghub.com/\">Andrew Kurtis</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Turkish (tr_TR) - thanks to Ertuğrul"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "CFS includes over 12 field types, include text, date, wysiwyg, file upload, relationship, user, and loop (repeatable fields). With CFS, creating and managing custom fields is easy, thanks to our clean and intuitive admin UI."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "It also features an <a href=\"http://docs.customfieldsuite.com/api.html\">elegant, lightweight API</a> for loading (and saving) field values."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin is a free, lightweight alternative to Advanced Custom Fields."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download and activate the plugin."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Browse to the <code>Field Groups</code> menu to configure."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: support for dynamic Loop labels from select field values (props @superbiche)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: PHP notice for \"Placement\" column"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: issue with $cfs variable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: <a href=\"http://docs.customfieldsuite.com/api/find_fields.html\">find_fields API method</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: <code>CFS()-&gt;field_group-&gt;load_field_groups()</code> method"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Turkish transation (props Ertuğrul)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Chinese translation (props iblackly)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: <a href=\"http://docs.customfieldsuite.com\">documentation overhaul</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: major code cleanup and refactoring"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: efficiency improvements for internal API methods"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: removed deprecated (&lt; 3.5) code from File field type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: show post titles instead of IDs for \"Placement\" admin column"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: now using a built-in WP dashicon"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: removed buggy Gravity Forms integration"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: removed <code>cfs_relationship_post_types</code> filter (use <code>cfs_field_relationship_query_args</code> instead)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: removed add-ons screen (for now)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: toggle icon for loop fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: field validation for loop sub-fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: CFS()-&gt;save gracefully handles missing fields (no errors)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: wysiwyg fields would break when dragged"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Remove non-existing post IDs from \"Posts\" placement rule"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: WP 4.3 <code>wp_richedit_pre</code> deprecated notice (props @jchristopher)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: MySQL error when field IDs is empty (props @hubeRsen)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: CFS no longer forces editor into \"Visual\" mode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bumped minimum version to WP 4.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Catalan translation (props Luis Bordas)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Prevent hyperlink field with target=\"none\" from opening new tab (props @jchristopher)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enable media filtering of file fields (props @camiloclc)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated jQuery minicolors to fix deselect issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated translations (props @jcbrebion)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New CFS logo (props @chrisvanpatten)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added composer.json file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security fix: ensure that only admins can import field groups (props James Golovich)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Hyperlink field type (previously an add-on)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Revision support, just use <code>DEFINE( 'CFS_REVISIONS', true );</code>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added license.txt (props @chrisvanpatten)"
+msgstr ""

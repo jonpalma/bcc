@@ -1,0 +1,946 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Cyclone Slider 2"
+msgstr ""
+
+#. Short description.
+msgid "Create and manage sliders with ease. Built for both casual users and developers."
+msgstr ""
+
+#. Screenshot description.
+msgid "All Slideshow Screen"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slideshow Editing Screen"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slideshow in Action"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slideshow Widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "Slideshow Settings"
+msgstr ""
+
+#. Found in description header.
+msgid "Features:"
+msgstr ""
+
+#. Found in description header.
+msgid "Demos"
+msgstr ""
+
+#. Found in description header.
+msgid "Credits"
+msgstr ""
+
+#. Found in description header.
+msgid "Translations"
+msgstr ""
+
+#. Found in description header.
+msgid "License"
+msgstr ""
+
+#. Found in description list item.
+msgid "Very easy to use interface! Just drag and drop to re-order your slides."
+msgstr ""
+
+#. Found in description list item.
+msgid "Responsive slider for responsive and fluid websites."
+msgstr ""
+
+#. Found in description list item.
+msgid "Supports image, YouTube, Vimeo, custom HTML, and testimonial slides."
+msgstr ""
+
+#. Found in description list item.
+msgid "Powered by <a href=\"http://jquery.malsup.com/cycle2/\">Cycle 2</a>, the most flexible jQuery slideshow plugin."
+msgstr ""
+
+#. Found in description list item.
+msgid "Every project is unique. To address this issue Cyclone Slider 2 has a template system that allow developers to easily customize the slider appearance and behavior."
+msgstr ""
+
+#. Found in description list item.
+msgid "Ability to add per-slide transition effects."
+msgstr ""
+
+#. Found in description list item.
+msgid "Customizable tile transition effects."
+msgstr ""
+
+#. Found in description list item.
+msgid "Unlimited sliders."
+msgstr ""
+
+#. Found in description list item.
+msgid "Unique settings for each slider."
+msgstr ""
+
+#. Found in description list item.
+msgid "Supports random slide order."
+msgstr ""
+
+#. Found in description list item.
+msgid "Shortcode for displaying sliders anywhere in your site."
+msgstr ""
+
+#. Found in description list item.
+msgid "Ability to import images from NextGEN (NextGEN must be installed and active)."
+msgstr ""
+
+#. Found in description list item.
+msgid "Translation ready and RTL support."
+msgstr ""
+
+#. Found in description list item.
+msgid "Ability to use qTranslate quick tags for slide title and descriptions (qTranslate must be installed and active)."
+msgstr ""
+
+#. Found in description list item.
+msgid "Allows title and alt to be specified for each slide images."
+msgstr ""
+
+#. Found in description list item.
+msgid "Comes with a widget to display your slider easily in widget areas."
+msgstr ""
+
+#. Found in description list item.
+msgid "Ability to fine tune the script settings. You can choose what scripts to load and where to load them."
+msgstr ""
+
+#. Found in description list item.
+msgid "It's FREE!"
+msgstr ""
+
+#. Found in description list item.
+msgid "View some <a href=\"http://wordpress.org/plugins/cyclone-slider-2/screenshots/\">screenshots</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "Checkout the <a href=\"http://www.codefleet.net/cyclone-slider-2/\">Cyclone Slider 2 homepage</a> for a live demo."
+msgstr ""
+
+#. Found in description list item.
+msgid "Cyclone Slider 2 was based on <a href=\"http://jquery.malsup.com/cycle2/\">Cycle 2</a> by <a href=\"http://jquery.malsup.com/\">Mike Alsup</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "Special thanks to Cea Bacolor for the wonderful photos."
+msgstr ""
+
+#. Found in description list item.
+msgid "Aubin BERTHE for the French translation."
+msgstr ""
+
+#. Found in description list item.
+msgid "maxgx for the Italian translation."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://wordpress.org/support/profile/hassanhamm\">Hassan</a> for the Arabic translation."
+msgstr ""
+
+#. Found in description list item.
+msgid "Javad for the Persian translation."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.webhostinghub.com/\">Borisa Djuraskovic</a> for the Serbo-Croatian translation."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://gabrielgil.es/\">Gabriel Gil</a> and <a href=\"http://digital03.net/\">Digital03</a> for the Spanish translation."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Cyclone Slider 2 is an easy-to-use slider plugin with an intuitive user interface. It leverages the built-in features of WordPress. It uses custom post for the slider, custom fields to store settings, and media uploader for the images. It also uses a template system that allows developers to easily customize the look and behavior of the slider. It's a simple and flexible slider plugin."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Do you want to translate Cyclone Slider into your language? Go to the project page at <a href=\"https://www.transifex.com/projects/p/cyclone-slider-2/\">transifex</a>, create a free account, and join."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "GPLv2 or later - http://www.gnu.org/licenses/gpl-2.0.html"
+msgstr ""
+
+#. Found in installation header.
+msgid "Install via WordPress Admin"
+msgstr ""
+
+#. Found in installation header.
+msgid "Install via FTP"
+msgstr ""
+
+#. Found in installation header.
+msgid "Usage"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Ready the zip file of the plugin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to Admin &gt; Plugins &gt; Add New"
+msgstr ""
+
+#. Found in installation list item.
+msgid "On the upper portion click the Upload link"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Using the file upload field, upload the plugin zip file here and activate the plugin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "First unzip the plugin file"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Using FTP go to your server's wp-content/plugins directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the unzipped plugin here"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Once finished login into your WP Admin and go to Admin &gt; Plugins"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Look for Cyclone Slider 2 and activate it"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Start adding sliders in 'Cyclone Slider' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "The shortcodes and php code are generated automatically by the plugin. Just copy and paste it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Fixed Strict Standards error in PHP 5.4 and above"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added ability to enable/disable slide."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added ability to import and export sliders."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Major refactoring. Code now using service definitions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix nextgen gallery integration"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix template Thumbnail thumb images not working when resize is false."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix missing alt attribute in slide images for Standard template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added error check for scandir in template locations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Repositioned settings fields. Resize Images and Force Resize are now together."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated cycloneslider.pot"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Thumbnail template thumb images now working."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added support for custom image sizes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Removed cyclone_slide_image_url function from Thumbnail template and used $slide['image_thumbnails']['40_40_crop'] instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Refactored Data and ImageResizer class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Wrong class name Image_Resizer changed to CycloneSlider_ImageResizer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Improved safety checks for POST data when saving sliders."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Deleting a single slide now works. This was a regression bug due to previous POST data safety check code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Safety check for array keys when displaying a slider."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Restored $cyclone_slider_saved_done global variable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Templates config now use json instead of ini format. Solves the problem with hosting that has parse_ini_file disabled for security reasons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Code cleanup. Removed commented and unused codes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Improved view class. Change codes related to view rendering."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Moved template location declaration to main plugin file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Moved global function responsibility in templates to Data class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Use DI container for image editor class"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Change autoloader and hook names."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Updated language files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Updated screen icon code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Restored missing widget code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Major code refactoring for future features to be easily added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated spanish language files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added compatibility with WP 4.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Admin menu icon for WP 3.9+."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Language files load path."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added testimonial slide type. Now you can create testimonial sliders."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added support for testimonial slides in Dark and Standard templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added Spanish translation by Gabriel Gil."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added Serbo-Croation translation by Borisa Djuraskovic."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Added a few responsive tweaks in admin.css for the template selection area."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Removed unused codes. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added ability to disable related videos in YouTube slide."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Slide title now appends the slide caption of there is one."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. MP6 color schemes. Added subtle cosmetic changes to UI depending on what admin color scheme was selected."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Made hide_non_active false only if using dynamic height and YouTube/Vimeo slides. For backwards compatibility with older templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Removed old problematic video slide."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Fixed Vimeo error when URL fails to load."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Fix for very long slide titles."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Bug fix for PHP warning in template selection when template is unchecked in settings page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added support for YouTube, Vimeo and Custom slide types in Text template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added support for YouTube and Vimeo slide types in Dark template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added \"Location\" column in template selection panel."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added warning when a template is located in the currently active theme directory. It warns the user of potential deletion of the template when a theme is updated."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added template directory in wp-content/cycloneslider/. This is now the recommended directory to store custom or modified templates to survive update nukes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added width_management to shortcode attributes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. hide_non_active is now always set to false for getBoundingClientRect to not return zero."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Minor change for directory separator on active theme location."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Fixed inacurate next slide height reading by using getBoundingClientRect() instead of outerHeight()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Added check to fix PHP warning when Vimeo URL is blank."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added ability to select multiple images to add as slides"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Refactor code for template javascripts. Moved similar code into client.js"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added support for YouTube and Vimeo slide types in thumbnails template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added ability to fetch thumbnails of videos from youtube.com and vimeo.com. The thumbnails template will use this to display the thumbnails in its pager."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Fix critical error with slider not working caused by easing plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New. Added ability to add a title to slider widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Modified easing plugin to v1.3.1."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Added minified version of easing plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Fix dynamic height for templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Added RTL support and sanitize output in templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix. Fix issue on Default template where caption is not visible on images that are taller than the slider."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Returned slider auto height from sentinel to ratio for wider support and backward compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Updated screenshots for wordpress.org."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New! Added ability in Settings page to enable/disable templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change. Move settings page form to its own view file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Width Management option. Three options available: Responsive (default), Full width, and Fixed width. Templates that support this feature are Dark, Default, Standard and Thumbnails."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added <a href=\"http://www.codefleet.net/cyclone-slider-2/templates/dark/\">Dark template</a> with RTL support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Standard template is now the selected template when creating new sliders."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved Title and Description to Caption accordion in slide edit screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Returned other shortcode options removed in 2.7.0. All shortcode options restored except template. Template can only be changed in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix caption text-align:left for templates standard, default and thumbnails along with RTL support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated language files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Slider preview!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added YouTube and Vimeo slide types. Deprecated Video slide type."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Standard template as de-facto template which has support for Image, YouTube, Vimeo, and Custom HTML slide types."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Standard template supports RTL and uses pure CSS for buttons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "YouTube and Vimeo videos will now pause when changing to a different slide when using the Standard template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Admin UI is now retina and <a href=\"http://wordpress.org/plugins/mp6/\">MP6</a> ready."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compacted template selection UI. Removed template thumbnail preview as a slider preview is now available in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated language files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Lots of new slider variables added for use in templates. Will update documentation soon."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed other shortcode options except id. Example: [cycloneslider id=\"default\"]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<a href=\"http://www.codefleet.net/cyclone-slider-pro/\">Pro version now available with many more features</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix for 2.6.3 where settings page stopped working."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor fix for RTL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Persian translation by Javad."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made non-translatable texts translatable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added RTL support for the admininistration screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change pin icon to media in the admin menu."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Arabic translation. Special thanks to Hassan for this and the items above."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added function <code>cyclone_slider</code> for displaying slider in template files instead of using <code>do_shortcode</code>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added button that links to a tutorial on how to <a href=\"http://www.codefleet.net/introduction-to-templates/\">create your own template</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reverted red screen options to default color."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix bug with ugly old media gallery (pre 3.5)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Italian translation from maxgx."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change greater-than to its character entity for <code>data-cycle-slides</code>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with Shortcodes Ultimate."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated screenshots."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Warning: Old templates will break in this version! You can either use the new templates or migrate the older templates. <a href=\"http://www.codefleet.net/pre-2-6-0-templates-migration/\">Check this post</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Load scripts and styles normally as separate requests for better compatibility with other plugins and server setup. Removed template-assets.php which consolidates assets into a single request."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added cyclone slider settings page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Language files now loaded when using WPML."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Get Codes metabox to easily grab the slider codes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Slideshow ID metabox to easily change the slider ID."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix broken nextgen importer from last update."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor code for better template management in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed templates Black, Blue, and Myrtle from plugin's folder for better performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Used get_posts instead of WP_Query when getting a slider to avoid filters that might cause conflict."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Youtube template that pauses the video when slider is transitioning. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix for child themes where slider is not working"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added template asset loader to get rid of the compiled css and js that are rewritten on the file system on every save"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Move template handling logic to its own class to be used by the template asset loader independently"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed upgrade notice"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix to allow small images to be inserted."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved cyclone_settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved slider not found message."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated cycle 2 js files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added plugin version to fix caching problem on JS and CSS."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added upgrade notice."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More slide types to choose from: image, video (youtube and vimeo) and custom HTML."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added icons to the UI to indicate different slide types."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced cookies with localstorage to store UI status."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated the templates to support the various slide types."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added resize and random options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix for fatal error when no GD library. Added gd_info check."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix for js error on WP below 3.5 caused by the 3.5 media library object being undefined."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Deprecated cycloneslider_thumb use cyclone_slide_image_url instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Deprecated cycloneslider_settings use cyclone_settings instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Deprecated cycloneslider_slide_settings use cyclone_slide_settings instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Various UI fixes and code refactoring."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix for 2.2.4"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now compiles the template CSS and JS files instead of using template_redirect hook. This is to fix problems with some users reporting broken css and js."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minified CSS and JS for templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compiles needed CSS and JS only instead of loading all CSS and JS from all templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added template column to all slider screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option for random slide order on every page visit."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactored some code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added image count to all slider screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug Fix. Post Type Switcher fix via jquery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UI Enhancement. Removed overflow for templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ignore image resize if slider dimension is equal to the image dimension."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UI Enhancement. Decrease drag delay for slide sortables in editor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Cyclone Slider 2 widget. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated cycle 2 to latest version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated template selection interface to be more visual. A screenshot of each slider template is now shown."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Tile Count and Tile Position for both slider and per-slide settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cleanup Quick Edit screen to hide unused user interface."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Slide box titles can now be clicked to open and close the slide box."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed drag icon from slide box title. Slide box can now be dragged by click-holding the slide title area."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated template API functions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated plugin screenshot."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactored various code parts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to add script.js in templates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to add screenshot.jpg in templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated templates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added fix to preserved PNG transparency."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix save routine to allow saving empty slides and to preserve order of slides after drag and/or deletion of slide."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for a code typo error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for slider not working when NextGEN 1.9.7 is active"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now import images from NextGEN"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix for hover pause"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why is my slider not working?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I pause an auto running slider when I play a YouTube or Vimeo video?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Why is there is an extra slide that I didn't add?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where do I add my own templates?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Check for javascript errors in your page. This is the most common cause of the slider not running. See <a href=\"http://codex.wordpress.org/Using_Your_Browser_to_Diagnose_JavaScript_Errors\">diagnosing javascript errors</a>. Fix the javascript errors and the slider will run."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Also check if you are using jQuery Cycle 1 script by viewing your page source. jQuery Cycle2 won't work if both are present."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Sorry but its not currently supported as it requires loading the YouTube API which is an extra overhead. A solution would be to disable auto transition."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Most probably its wordpress adding paragpraphs on line breaks next to the slides therefore adding a blank <code>&lt;p&gt;</code> slide. You can try adding this to functions.php:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Inside <code>wp-content</code> create a folder named \"cycloneslider\". Add your templates inside."
+msgstr ""
